@@ -1,2 +1,0 @@
-linha gerada com função 'EscreveArquivo' 
-linha gerada com função 'aleteraArquivo' 

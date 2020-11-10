@@ -1,7 +1,0 @@
-{
-    "terminal.integrated.rendererType": "canvas",
-    "terminal.integrated.rightClickBehavior": "default",
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.enableFileLinks": false,
-    "workbench.panel.defaultLocation": "left"
-}
