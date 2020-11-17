@@ -1,0 +1,14 @@
+>>>>>>>>>>>>>>> IMPORTAR TAXA POUPANÇA
+https://dadosabertos.bcb.gov.br/dataset/195-depositos-de-poupanca-a-partir-de-04052012---rentabilidade-no-periodo
+
+
+>>>>>>>>>>>>>>> IMPORTAR TAXA TESOURO
+https://www.tesourotransparente.gov.br/temas/divida-publica-federal/tesouro-direto
+
+
+>>>>>>>>>>>>>>> IMPORTAR IPCA
+https://www.ibge.gov.br/explica/inflacao.php
+
+
+>>>>>>>>>>>>>>> IMPORTAR SELIC
+https://dadosabertos.bcb.gov.br/dataset/1178-taxa-de-juros---selic-anualizada-base-252
